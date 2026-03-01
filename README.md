@@ -1,6 +1,6 @@
 # Hi, I'm Anushka Waghmode
 
-**B.E. Computer Science (IoT & Cybersecurity)**  
+**Undergrad Computer Science (IoT & Cybersecurity)**  
 SMT Indira Gandhi College of Engineering, Mumbai University
 
 ---
