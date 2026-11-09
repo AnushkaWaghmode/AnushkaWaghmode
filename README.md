@@ -62,13 +62,10 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnushkaWaghmode&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWaghmode&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3333&text_color=FFFFFF" />
-
 <img src="https://streak-stats.demolab.com?user=AnushkaWaghmode&theme=dark&hide_border=true&background=0D1117&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
 </div>
+
 ---
 
 ## 🎓 Education
