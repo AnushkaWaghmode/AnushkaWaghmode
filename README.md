@@ -29,7 +29,7 @@
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Java](https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=java&logoColor=ED8B00)
 ![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-181818?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
