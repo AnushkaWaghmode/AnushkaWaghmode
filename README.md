@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="./profile/streak.svg" alt="GitHub Contribution Streak" width="60%" />
+<img src="https://streak-stats.demolab.com?user=AnushkaWaghmode&theme=dark&hide_border=true&background=0D1117&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&timezone=Asia/Kolkata" />
 
 </div>
 
