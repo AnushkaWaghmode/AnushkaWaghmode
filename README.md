@@ -60,9 +60,11 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AnushkaWaghmode&theme=dark&hide_border=true&background=0D1117&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+<img src="./profile/streak.svg" alt="GitHub Contribution Streak" width="90%" />
 
 </div>
 
