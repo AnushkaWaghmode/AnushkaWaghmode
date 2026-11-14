@@ -60,11 +60,9 @@
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img src="./profile/streak.svg" alt="GitHub Contribution Streak" width="90%" />
+<img src="./profile/streak.svg" alt="GitHub Contribution Streak" width="80%" />
 
 </div>
 
